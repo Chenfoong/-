@@ -1,7 +1,6 @@
 <meta http-equiv=Content-Type content="text/html; charset=gb2312">
 <meta name="viewport" content="width=device-width, initial=scale=1.0">
-<title>佛说无量寿经</title>
-</style>
+
 <link rel="stylesheet" href="book.css">
 </head>
 <body lang=ZH-TW background="textbackground.jpg" bgcolor="#ffffff" class="Normal">
