@@ -1,20 +1,6 @@
-
-
-<html>
-<head>
 <meta http-equiv=Content-Type content="text/html; charset=gb2312">
 <meta name="viewport" content="width=device-width, initial=scale=1.0">
 <title>佛说无量寿经</title>
-	{margin:0cm;
-	margin-bottom:.0001pt;
-	font-size:12.0pt;
-	}
-.MsoPlainText
-	{margin:0cm;
-	margin-bottom:.0001pt;
-	font-size:12.0pt;
-	}
--->
 </style>
 <link rel="stylesheet" href="book.css">
 </head>
